@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 But the Mummy wil appreciate the lack of humidity
+<<<<<<< HEAD
 We added a different line in other copy
+=======
+This line added to Wolfman's copy
+>>>>>>> ab425fe278bcb10b343daf856169f662b95442d9
